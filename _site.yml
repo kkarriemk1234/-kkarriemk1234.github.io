@@ -1,4 +1,6 @@
 name: "my-website"
+output_dir: "."
+
 navbar:
   title: "My Website"
   left:
